@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gab:home|Door43 (gab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gab|d43-gab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gab/archive/master.zip|d43-gab.zip]]
+
+**Recent Changes**
+{{changes>ns = gab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gab|Ethnologue data]]
+
